@@ -1,2 +1,2 @@
-# Formula1-Cpp
- Contém um código de corrida de f1
+# Atividades_C_Cpp
+ Contém atividades em C e c++
